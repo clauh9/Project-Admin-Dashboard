@@ -135,7 +135,8 @@ input[type="search"] {
 
 .dashboard {
 	display: flex;
-	align-items: center;
+	/* align-items: center; */
+	/* justify-content: center; */
 }
 
 /* !content */
