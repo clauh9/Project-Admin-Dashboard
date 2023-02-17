@@ -103,6 +103,7 @@ input[type="search"] {
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
+	padding: 0 20px 0 20px;
 }
 .user_info_container {
 	display: flex;
